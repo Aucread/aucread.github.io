@@ -1,6 +1,6 @@
 title: "Piotr Put, PhD"
 author: "Piotr Put"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Harvard University"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Reading list" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "put.piotr@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:put.piotr@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Aucread"}
   - {title: Twitter, icon: twitter, url: "https://x.com/PutPiotr"}
 
