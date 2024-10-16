@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
 Hi, I'm Piotrek.
 I'm a lifelong learner and problem solver. 
