@@ -18,6 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://drive.google.com/file/d/1-4TPrCVzMU4vLZ7o7Vg5zPgUlTvPIwPV/view?usp=sharing"}
   - {title: "Publications", url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoWbFEdPY1kYnblABCJ8z9gAcnb7LTiWJAYDKnYSXVfRBZA1n91QDpY5T9PHqEh63jM1-vONtlTJRfOF-Q&user=7L3drzsAAAAJ"}
+  - {title: "Thesis", url: "https://zf.if.uj.edu.pl/sites/default/files/Put_PhD_thesis_2022-compressed.pdf"}
   - {file: "books.md", title: "Reading list" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
