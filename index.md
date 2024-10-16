@@ -2,7 +2,8 @@
 layout: page
 title: "About me"
 ---
-Hi, I'm Piotrek.
+Hi, I'm Piotrek!
+
 I'm a lifelong learner and problem solver. 
 In 2022 I finished my PhD in Physics studying magnetic resonance (NMR) without magnets.
 Currently I am a postdoc at Harvard University investigating many-body dynamics of quasi-atomic defects in diamond.
