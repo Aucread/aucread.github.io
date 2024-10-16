@@ -10,6 +10,6 @@ I'd like to be half a researcher Robert Caro is.
 Rating: ★★★★★
 
 ## Chłopki by Joanna Kuciel-Frydryszak
-Touching portrait of peasant woman in early 20th century Poland. Struck close to home.
+Touching portrait of peasant women in early 20th century Poland. Struck close to home.
 
 Rating: ★★★★☆
