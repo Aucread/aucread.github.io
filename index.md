@@ -3,6 +3,8 @@ layout: page
 title: "About me"
 ---
 Hi, I'm Piotrek!
+![Alt text](/assets/Portait2024.png)
+
 
 I'm a lifelong learner and problem solver. 
 In 2022 I finished my PhD in Physics studying magnetic resonance (NMR) without magnets.
