@@ -12,4 +12,4 @@ Currently I am a postdoc at Harvard University investigating many-body dynamics 
 And I am still doing weird NMR - this time in nanoscale.
 
 I am an avid reader (mostly non-fiction), nature and cat enjoyer. 
-On this simple website you will find some simple information about me.
+On this simple website you will find some basic information about me.
