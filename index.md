@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 Hi, I'm Piotrek!
-![Alt text](/assets/Portait2024.png){:width="300px"}
+![Alt text](/assets/Portait2024.png){:width="30px"}
 
 
 I'm a lifelong learner and problem solver. 
