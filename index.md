@@ -9,7 +9,7 @@ Hi, I'm Piotrek!
 I'm a lifelong learner and problem solver. 
 In 2022 I finished my PhD in Physics studying magnetic resonance (NMR) without magnets.
 Currently I am a postdoc at [Harvard University](https://lukin.physics.harvard.edu/) investigating many-body dynamics of quasi-atomic defects in diamond.
-And I am still doing weird NMR - this time in nanoscale.
+And I am still doing weird [NMR](https://hongkunparklab.com/)  - this time in nanoscale.
 
-I am an avid reader (mostly non-fiction), nature and cat enjoyer. 
+I am an avid reader (mostly non-fiction), nature and [cat](https://www.instagram.com/bubu_and_niunia/) enjoyer. 
 On this simple website you will find some basic information about me.
